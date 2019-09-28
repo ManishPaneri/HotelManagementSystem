@@ -1,0 +1,14 @@
+create_room 2 2
+book DELUXE 123456789123 manish
+book DELUXE 123456789122 ashish
+book DELUXE 723456789122 joy
+book DELUXE 823456789122 rahul
+book DELUXE 923456789122 piyush
+leave 4
+status
+book DELUXE 913456789122 manish
+registration_with_name manish
+registration_with_addhaar_number 913456789122
+registration_with_addhaar_number 123456789122
+registration_room_type DELUXE
+exit
